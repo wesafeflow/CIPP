@@ -31,4 +31,8 @@ __*
 
 # vscode debug logs
 debug.log
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
+app.log
 >>>>>>> upstream/main
