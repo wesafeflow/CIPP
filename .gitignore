@@ -32,7 +32,15 @@ __*
 # vscode debug logs
 debug.log
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/main
 =======
 app.log
+>>>>>>> upstream/main
+=======
+app.log
+
+# Cursor IDE
+.cursor/rules
+
 >>>>>>> upstream/main
